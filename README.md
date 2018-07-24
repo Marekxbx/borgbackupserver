@@ -1,3 +1,5 @@
+
+
 We own a small webhosting shop and currently use R1Soft to backup our servers. It's great software, but much too expensive. The goal is to build something comparable based on borg and save us the enormous license fees we currently pay which is over $400 a month (just for software). We will not have bare-metal recovery.
 
 Borg Backup Server is intended to be a server with a large amount of storage that backs up 1 to dozens of client machines. It is a Server/Client type of setup. Borg Server initiates the backups over SSH to the client.
