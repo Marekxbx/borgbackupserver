@@ -1,5 +1,5 @@
 
-![Borg_Backup_Server](https://raw.githubusercontent.com/marcpope/borgbackupserver/master/info/borg-backup-server.png)
+![Borg_Backup_Server](https://raw.githubusercontent.com/Marekxbx/borgbackupserver/master/info/borg-backup-server.png)
 
 
 We own a small webhosting shop and currently use R1Soft to backup our servers. It's great software, but much too expensive. The goal is to build something comparable based on borg and save us the enormous license fees we currently pay which is over $400 a month (just for software). We will not have bare-metal recovery.
